@@ -1,8 +1,8 @@
 
 # Movie Recommendation System
-
-
 In the Movie Recommendation system, we offer suggestions for movies similar to what the user inputs.
+<img src="https://github.com/ankursinghbisht/Recommendation-System/assets/112644477/c44025ff-4bc9-4c80-968b-36c3d12bca25" alt="image" width="600"/>
+
 ## Introduction
 
 We built a system to recommend movies. We gathered important information about each film, like genre, cast, and story. Then, we used Content-Based filtering to suggest similar movies. This involved creating a shared description for all the movie features and comparing them to find good matches.
@@ -22,10 +22,16 @@ To get started with the Chess Game, follow these simple steps:
 - Install the required dependencies using `pip install`.
 
 - Launch the console within the repository and enter the command `streamlit run WebPage.py`.
-    
+<img src="https://github.com/ankursinghbisht/Recommendation-System/assets/112644477/8f8c7853-07ef-4dd9-96ce-6fb69310d8ec" alt="image" width="600"/>
+
 ## Screenshots
+### Recommendations
 
+<img src="https://github.com/ankursinghbisht/Recommendation-System/assets/112644477/034d3d50-b567-4b4c-be1d-3a9a5ff062c7" alt="image" width="600"/>
 
+<img src="https://github.com/ankursinghbisht/Recommendation-System/assets/112644477/9ffe22d4-f0bb-4a4d-b3ff-5bed7b352b30" alt="image" width="600"/>
+
+<img src="https://github.com/ankursinghbisht/Recommendation-System/assets/112644477/576bd852-78a3-4800-b282-1c4dde80230d" alt="image" width="600"/>
 
 
 ## 🔗 Links
